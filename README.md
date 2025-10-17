@@ -41,6 +41,10 @@
   <br/>
 
   ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tidlsss)
+
+  <br/>
+  <br/>
+  아래 Pinned 리포지토리에서 최근 프로젝트를 확인할 수 있습니다.
   
 </div>
 

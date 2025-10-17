@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
+  #### :raising_hand: Student from South Korea.<br/>
   #### :fire: I aim to become a AI Engineer.<br/>
   #### :mortar_board: Major in Artificial Intelligence, Kyonggi University(KGU)
   <br/>
